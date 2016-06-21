@@ -60,16 +60,4 @@
       <version-cache version="4.4.5" last-modified="1464100886000" />
     </local-interpreter>
   </component>
-  <component name="SvnApplicationSettings">
-    <option name="myCheckoutURLs">
-      <list>
-        <option value="https://bitbucket.org/Silmarwen/vizit-elektra.ru" />
-      </list>
-    </option>
-    <option name="myTypedURLs">
-      <list>
-        <option value="https://bitbucket.org/Silmarwen/vizit-elektra.ru" />
-      </list>
-    </option>
-  </component>
 </application>
