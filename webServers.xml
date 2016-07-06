@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="fa9c5348-82c7-4b48-821f-a3adc984fafc" name="myHost" url="http://92.53.96.27">
-        <fileTransfer host="92.53.96.27" port="21" rootFolder="/CW_maxima/public_html" password="dfe1df93dfcddf9bdff0dfcedfcbdf9edffd" username="cl21228">
+        <fileTransfer host="92.53.96.27" port="21" rootFolder="/public_html" password="dfe1df93dfcddf9bdff0dfcedfcbdf9edffd" username="cl21228">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
