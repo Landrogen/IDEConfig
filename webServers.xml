@@ -9,6 +9,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="77a16909-7682-4886-8ffe-b4231a0a5119" name="Kokos" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
