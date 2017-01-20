@@ -3,5 +3,19 @@
     <option name="customScope" value="File 'E:\project\doors-sofia.ru\src\js\lib.js'" />
     <option name="defaultScopeName" value="File 'E:\project\doors-sofia.ru\src\js\lib.js'" />
     <option name="SEARCH_SCOPE" value="File 'E:\project\doors-sofia.ru\src\js\lib.js'" />
+    <option name="FILE_MASK" value="*.scss" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.scss</mask>
+    </recentFileMasks>
   </component>
 </application>
