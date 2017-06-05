@@ -12,6 +12,14 @@
       <webServer id="77a16909-7682-4886-8ffe-b4231a0a5119" name="Kokos" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="bf24af3f-32e7-4b43-8c99-5a6d58129c57" name="ledsvet" url="http://176.9.37.39">
+        <fileTransfer host="176.9.37.39" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
