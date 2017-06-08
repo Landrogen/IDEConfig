@@ -21,14 +21,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="b8fd0c71-8124-4b09-95aa-a96e58d02407" name="oknamaster.ru" url="http://oknamaster.ru">
-        <fileTransfer host="oknamaster.ru" port="22" rootFolder="/var/www/vhosts/oknamaster.ru/httpdocs" accessType="SFTP">
+        <fileTransfer host="oknamaster.ru" port="22" rootFolder="/var/www/vhosts/oknamaster.ru/test" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="6df1d3b9-0b74-481d-8289-14a7fb5c874e" name="oknamaster.ru" url="http://oknamaster.ru">
+      <webServer id="6df1d3b9-0b74-481d-8289-14a7fb5c874e" name="oknamaster.ru (1)" url="http://oknamaster.ru">
         <fileTransfer host="oknamaster.ru" port="22" rootFolder="/var/www/vhosts/oknamaster.ru/test" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
